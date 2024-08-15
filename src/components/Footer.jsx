@@ -6,7 +6,7 @@ export function Footer() {
         <>
             <footer className='footer-class'>
                 <p>
-                    <a target="_blank" href="https://github.com/zachdev1/nba-search">GitHub Repo</a>
+                    <a target="_blank" href="https://github.com/zachdev1/supplement-store">GitHub Repo</a>
                 </p>
                 <p>
                     <a target="_blank" href="https://www.freepik.com/author/macrovector">Image by macrovector on Freepik</a>
