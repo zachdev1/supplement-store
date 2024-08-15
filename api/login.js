@@ -1,6 +1,6 @@
 import { sql } from '@vercel/postgres';
 
-const connectionString = process.env.development.local.POSTGRES_URL;
+const connectionString = process.env.POSTGRES_URL;
 
 export default async function handler(req, res) {
     if (req.method === 'POST') {
